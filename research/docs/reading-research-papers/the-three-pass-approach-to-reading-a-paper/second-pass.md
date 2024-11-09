@@ -4,6 +4,10 @@ icon: '2'
 
 # Second Pass
 
+> Lets you grasp the paper's content, but not its details.
+>
+>
+>
 > This time you read the paper more `carefully`. But still, **ignore fine details such as proofs**.
 
 
@@ -33,13 +37,20 @@ icon: '2'
 
 ## After the second pass,
 
-* Hopefully, you would be able to **summarise the main contributions** of the paper with supporting evidence.
+* Hopefully, you would be able to **summarise the main contributions (`main thrust`)** of the paper with supporting evidence.
 
-### At times, you may not grasp the contents of the paper even after the second pass.
+❗ This level of detail is appropriate for a paper in which you are interested, but does not lie in your research speciality.
+
+#### At times, you may not grasp the contents of the paper even after the second pass.
 
 Some reasons include,
 
 * You are new to the subject matter or may be unfamiliar with some of the techniques/ theories used.
 * The paper is poorly written.
 * You are just having a bad day or just tired.
-* If you don't grasp the paper, you can return to the paper later and perhaps read some background material, just leave it aside, or continue to the third pass anyway.
+
+#### If you don't grasp the paper,&#x20;
+
+* you can return to the paper later and perhaps read some background material
+* OR you can just leave it aside
+* OR continue to the third pass anyway

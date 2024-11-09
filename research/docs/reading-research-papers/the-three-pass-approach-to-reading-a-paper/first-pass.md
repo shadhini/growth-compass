@@ -4,6 +4,10 @@ icon: '1'
 
 # First Pass
 
+> **Quick Scan - Bird's-eye view**&#x20;
+>
+> ╰**---**➤ Gives a general idea about the paper&#x20;
+
 1. Carefully read the
    1. **title**,
    2. **abstract** and
@@ -13,21 +17,29 @@ icon: '1'
 4. Glance over the **references**.
    1. mentally ticking off the ones you’ve already read
 
+
+
+🕙 Takes about 5-10 minutes.
+
+
+
 ## Goal: get an overview of the paper
 
-I.e.,
+I.e., be able to answer the _five C's_:
 
 * **Category**: What type of paper is it? A measurement paper? An analysis of an existing system? A description of a research prototype?
 * **Context**: Which other papers is it related to and what theoretical basis was used to address the problem?
-* **Correctness**: Are the assumptions reasonable?
+* **Correctness**: Are the assumptions reasonable, valid?
 * **Contributions**: What are the main contributions of the paper?
 * **Clarity**: Is the paper written clearly?
 
 ## After the 1st pass,
 
-╰┈➤ you can decide whether or not to do another pass through the paper.
+╰**---**➤ you can decide whether or not to do another pass through the paper.
 
-### Some reasons why you may decide not to continue reading the paper include,
+❗The first pass is adequate for papers that aren’t in your research area, but may someday prove relevant.
+
+#### Some reasons why you may decide not to continue reading the paper include,
 
 * The paper is of no interest to you.
 * You don't have the necessary background to understand the paper.

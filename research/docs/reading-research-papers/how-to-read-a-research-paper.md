@@ -24,3 +24,6 @@ icon: eyes
 [more-materials-to-refer-to....md](more-materials-to-refer-to....md)
 {% endcontent-ref %}
 
+
+
+\[1] Philip W.L. Fong. 2009. Reading a computer science research paper. SIGCSE Bull. 41, 2 (June 2009).

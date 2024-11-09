@@ -1,10 +1,9 @@
 ---
 icon: clipboard-list-check
+description: What papers should you read? How to decide using the 3-pass approach...
 ---
 
 # Doing a Literature Survey
-
-> **What papers should you read?**
 
 {% content-ref url="first-pass.md" %}
 [first-pass.md](first-pass.md)
