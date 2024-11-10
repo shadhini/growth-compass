@@ -1,5 +1,6 @@
 ---
 icon: memo-circle-check
+description: Based on paper by Fong [2]
 ---
 
 # Paper Review

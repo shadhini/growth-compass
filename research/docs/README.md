@@ -24,3 +24,65 @@ Embark with me on a deep dive into the world of research in computer science and
 
 Let’s navigate the path of discovery together, one research step at a time!
 
+## How to Conduct a Research?
+
+### How to Read a Research Paper
+
+{% content-ref url="reading-research-papers/objectives-of-reading-a-paper/" %}
+[objectives-of-reading-a-paper](reading-research-papers/objectives-of-reading-a-paper/)
+{% endcontent-ref %}
+
+╰**---**➤ Based on paper by Keshav \[1]
+
+
+
+{% content-ref url="reading-research-papers/the-three-pass-approach-to-reading-a-paper/" %}
+[the-three-pass-approach-to-reading-a-paper](reading-research-papers/the-three-pass-approach-to-reading-a-paper/)
+{% endcontent-ref %}
+
+╰**---**➤ Based on paper by Keshav \[1]
+
+
+
+### Finding Literature
+
+{% content-ref url="finding-literature/doing-a-literature-survey/" %}
+[doing-a-literature-survey](finding-literature/doing-a-literature-survey/)
+{% endcontent-ref %}
+
+╰**---**➤ Based on paper by Keshav \[1]
+
+
+
+### Writing a Paper Review
+
+{% content-ref url="writing-reviews/paper-review/" %}
+[paper-review](writing-reviews/paper-review/)
+{% endcontent-ref %}
+
+╰**---**➤ Based on paper by Fong \[2]
+
+
+
+### More Materials to refer to...
+
+{% content-ref url="welcome-to-my-research-journey/more-materials-to-refer-to....md" %}
+[more-materials-to-refer-to....md](welcome-to-my-research-journey/more-materials-to-refer-to....md)
+{% endcontent-ref %}
+
+╰**---**➤ Based on paper by Keshav \[1]
+
+
+
+
+
+## References
+
+\[1] S. Keshav, “How to read a paper,” _SIGCOMM Comput. Commun. Rev._, vol. 37, no. 3, p. 83, Jul. 2007, doi: 10.1145/1273445.1273458.
+
+\[2] P. W. L. Fong, “Reading a computer science research paper,” _SIGCSE Bull._, vol. 41, no. 2, pp. 138–140, Jun. 2009, doi: 10.1145/1595453.1595493.
+
+
+
+
+

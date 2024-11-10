@@ -1,6 +1,8 @@
 ---
 icon: clipboard-list-check
-description: What papers should you read? How to decide using the 3-pass approach...
+description: >-
+  What papers should you read? How to decide using the 3-pass approach by Keshav
+  [1]
 ---
 
 # Doing a Literature Survey
