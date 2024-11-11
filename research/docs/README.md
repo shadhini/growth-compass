@@ -28,13 +28,11 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 ### How to Read a Research Paper
 
-{% content-ref url="reading-research-papers/objectives-of-reading-a-paper/" %}
-[objectives-of-reading-a-paper](reading-research-papers/objectives-of-reading-a-paper/)
+{% content-ref url="reading-research-papers/objectives-of-reading-a-paper.md" %}
+[objectives-of-reading-a-paper.md](reading-research-papers/objectives-of-reading-a-paper.md)
 {% endcontent-ref %}
 
-╰**---**➤ Based on paper by Keshav \[1]
-
-
+╰**---**➤ Based on paper by Keshav \[1] and paper by Fong \[2]
 
 {% content-ref url="reading-research-papers/the-three-pass-approach-to-reading-a-paper/" %}
 [the-three-pass-approach-to-reading-a-paper](reading-research-papers/the-three-pass-approach-to-reading-a-paper/)
@@ -42,7 +40,11 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 ╰**---**➤ Based on paper by Keshav \[1]
 
+{% content-ref url="reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/" %}
+[comprehension-evaluation-synthesis-approach-to-reading-a-paper](reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/)
+{% endcontent-ref %}
 
+╰**---**➤ Based on paper by Fong \[2]
 
 ### Finding Literature
 

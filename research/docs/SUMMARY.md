@@ -5,16 +5,15 @@
 
 ## READING RESEARCH PAPERS
 
-* [Objectives of Reading a Paper](reading-research-papers/objectives-of-reading-a-paper/README.md)
-  * [Understand what's in the Paper](reading-research-papers/objectives-of-reading-a-paper/understand-whats-in-the-paper.md)
-  * [Evaluating the Paper](reading-research-papers/objectives-of-reading-a-paper/evaluating-the-paper.md)
-  * [Synthesis](reading-research-papers/objectives-of-reading-a-paper/synthesis.md)
+* [Objectives of Reading a Paper](reading-research-papers/objectives-of-reading-a-paper.md)
 * [The Three-Pass Approach to Reading a Paper](reading-research-papers/the-three-pass-approach-to-reading-a-paper/README.md)
   * [First Pass](reading-research-papers/the-three-pass-approach-to-reading-a-paper/first-pass.md)
   * [Second Pass](reading-research-papers/the-three-pass-approach-to-reading-a-paper/second-pass.md)
   * [Third Pass](reading-research-papers/the-three-pass-approach-to-reading-a-paper/third-pass.md)
-* [Reading a Computer Science Research Paper](reading-research-papers/reading-a-computer-science-research-paper/README.md)
-  * [Comprehension](reading-research-papers/reading-a-computer-science-research-paper/comprehension.md)
+* [Comprehension-Evaluation-Synthesis Approach to Reading a Paper](reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/README.md)
+  * [Comprehension](reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/comprehension.md)
+  * [Evaluation](reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/evaluation.md)
+  * [Synthesis](reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/synthesis.md)
 
 ## Finding Literature
 

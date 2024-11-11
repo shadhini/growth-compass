@@ -2,7 +2,9 @@
 icon: '2'
 ---
 
-# Evaluating the Paper
+# Evaluation
+
+> **Evaluating the paper**
 
 Is the **`research problem significant`**?
 
