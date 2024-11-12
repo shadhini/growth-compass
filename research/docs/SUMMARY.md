@@ -29,3 +29,7 @@
   * [Critique](writing-reviews/paper-review/critique.md)
   * [Synthesis](writing-reviews/paper-review/synthesis.md)
   * [A Sample Outline of a Paper Review](writing-reviews/paper-review/a-sample-outline-of-a-paper-review.md)
+
+## Writing Papers
+
+* [Writing Research Papers](writing-papers/writing-research-papers.md)

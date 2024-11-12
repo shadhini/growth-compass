@@ -5,17 +5,37 @@ icon: '2'
 # Evaluation
 
 > **Evaluating the paper**
+>
+> ╰**---**➤ careful validation of scientific claims
 
-Is the **`research problem significant`**?
+1. Is the **`research problem significant`**?
+   * Does the problem really `exist` and is it `important`?&#x20;
+     * enable practical applications
+     * deepen understanding
+     * explore new design space
+   *   Are they making up a `nonexistent` problem or solving a `minor problem`?
 
-* Does the problem really exist and is it important? Or
-* Are they making up a nonexistent problem or solving a minor problem?
 
-Are the **`contributions significant`**?
+2.  Are the **`contributions significant`**?
 
-* Does the paper contribute enough to the existing body of knowledge, is the paper worth reading? Or
-* Are they just repeating existing work?
+    * Does the paper contribute enough to the existing body of knowledge, is the paper `worth reading`?&#x20;
+    * Are they just `repeating` existing work?
+    * Are the authors aware of the `relation` of their work `to existing literature`?&#x20;
+    * Is the paper addressing a well-known `open problem`?
 
-Are the **`claims valid`**?
 
-* Are theorems correctly proven, experiments properly setup, generalisation valid,? Is the data used appropriate? etc.
+3. Are the **`claims valid`**?
+   * theorems correctly proven
+   * errors in proofs
+   * experiments properly setup
+   * confounding factors
+   * unrealistic, artificial benchmarks
+   * comparing apples and oranges
+   * methodological misunderstanding
+   * do the numbers add up?&#x20;
+   * generalisation valid
+   * claims modest enough
+   * is the data used appropriate
+
+
+

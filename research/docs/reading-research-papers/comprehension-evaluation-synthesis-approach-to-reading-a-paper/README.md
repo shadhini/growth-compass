@@ -17,3 +17,11 @@ description: Comprehension-Evaluation-Synthesis structure based on paper by Fong
 [comprehension.md](comprehension.md)
 {% endcontent-ref %}
 
+{% content-ref url="evaluation.md" %}
+[evaluation.md](evaluation.md)
+{% endcontent-ref %}
+
+{% content-ref url="synthesis.md" %}
+[synthesis.md](synthesis.md)
+{% endcontent-ref %}
+
