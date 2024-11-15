@@ -1,6 +1,6 @@
 ---
 icon: books
-description: Based on paper by Keshav [1]
+description: Based on paper by Keshav [1] and paper by Fong [2]
 ---
 
 # More materials to refer to...
@@ -24,4 +24,13 @@ description: Based on paper by Keshav [1]
 2. George Whitesides’s excellent overview of the process
    * G.M. Whitesides, “Whitesides’ Group: Writing a Paper,”
    * http://www.che.iitm.ac.in/misc/dd/writepaper.pdf
+
+
+
+## For Referees...
+
+1. Alan Jay Smith. The task of the referee. IEEE Computer, 23(4):65–71, April 1990.
+   * The paper is slanted towards experimental computer science
+2. Ian Parberry. A guide for new referees in theoretical computer science. Information and Computation, 112(1):96–116, July 1994.
+   * better for a perspective focusing on theoretical computer science
 

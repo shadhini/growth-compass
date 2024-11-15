@@ -35,7 +35,7 @@ icon: '2'
    * do the numbers add up?&#x20;
    * generalisation valid
    * claims modest enough
-   * is the data used appropriate
+   * is the data used appropriate?
 
 
 

@@ -56,7 +56,7 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 
 
-### Writing a Paper Review
+### Paper Reviews
 
 {% content-ref url="writing-reviews/paper-review/" %}
 [paper-review](writing-reviews/paper-review/)
@@ -66,13 +66,23 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 
 
+### Writing a Research Paper
+
+{% content-ref url="writing-papers/writing-research-papers.md" %}
+[writing-research-papers.md](writing-papers/writing-research-papers.md)
+{% endcontent-ref %}
+
+
+
 ### More Materials to refer to...
 
 {% content-ref url="welcome-to-my-research-journey/more-materials-to-refer-to....md" %}
 [more-materials-to-refer-to....md](welcome-to-my-research-journey/more-materials-to-refer-to....md)
 {% endcontent-ref %}
 
-╰**---**➤ Based on paper by Keshav \[1]
+╰**---**➤ Based on paper by Keshav \[1] and paper by Fong \[2]
+
+
 
 
 

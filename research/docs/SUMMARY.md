@@ -29,6 +29,7 @@
   * [Critique](writing-reviews/paper-review/critique.md)
   * [Synthesis](writing-reviews/paper-review/synthesis.md)
   * [A Sample Outline of a Paper Review](writing-reviews/paper-review/a-sample-outline-of-a-paper-review.md)
+  * [How referees review a paper?](writing-reviews/paper-review/how-referees-review-a-paper.md)
 
 ## Writing Papers
 

@@ -1,5 +1,6 @@
 ---
 icon: bullseye-arrow
+description: Based on paper by Keshav [1] and paper by Fong [2]
 ---
 
 # Objectives of Reading a Paper
