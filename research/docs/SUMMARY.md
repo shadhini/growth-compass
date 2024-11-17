@@ -17,7 +17,7 @@
 
 ## Finding Literature
 
-* [Finding Valuable Literature](finding-literature/finding-valuable-literature.md)
+* [Finding Academic Scholarly Literature](finding-literature/finding-academic-scholarly-literature.md)
 * [Doing a Literature Survey](finding-literature/doing-a-literature-survey/README.md)
   * [First Pass](finding-literature/doing-a-literature-survey/first-pass.md)
   * [Second Pass](finding-literature/doing-a-literature-survey/second-pass.md)
