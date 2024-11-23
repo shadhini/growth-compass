@@ -48,6 +48,10 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 ### Finding Literature
 
+{% content-ref url="finding-literature/finding-academic-scholarly-literature.md" %}
+[finding-academic-scholarly-literature.md](finding-literature/finding-academic-scholarly-literature.md)
+{% endcontent-ref %}
+
 {% content-ref url="finding-literature/doing-a-literature-survey/" %}
 [doing-a-literature-survey](finding-literature/doing-a-literature-survey/)
 {% endcontent-ref %}
@@ -83,6 +87,12 @@ Let’s navigate the path of discovery together, one research step at a time!
 ╰**---**➤ Based on paper by Keshav \[1] and paper by Fong \[2]
 
 
+
+## Proof Mechanisms
+
+{% content-ref url="proofs/zkp-zero-knowledge-proofs.md" %}
+[zkp-zero-knowledge-proofs.md](proofs/zkp-zero-knowledge-proofs.md)
+{% endcontent-ref %}
 
 
 

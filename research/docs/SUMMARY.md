@@ -34,3 +34,7 @@
 ## Writing Papers
 
 * [Writing Research Papers](writing-papers/writing-research-papers.md)
+
+## Proofs
+
+* [ZKP: Zero-knowledge proofs](proofs/zkp-zero-knowledge-proofs.md)
