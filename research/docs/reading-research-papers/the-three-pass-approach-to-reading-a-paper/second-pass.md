@@ -39,8 +39,6 @@ icon: '2'
 
 * Hopefully, you would be able to **summarise the main contributions (`main thrust`)** of the paper with supporting evidence.
 
-❗ This level of detail is appropriate for a paper in which you are interested, but does not lie in your research speciality.
-
 #### At times, you may not grasp the contents of the paper even after the second pass.
 
 Some reasons include,

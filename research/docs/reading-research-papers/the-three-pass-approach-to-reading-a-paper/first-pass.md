@@ -37,8 +37,6 @@ I.e., be able to answer the _five C's_:
 
 ╰**---**➤ you can decide whether or not to do another pass through the paper.
 
-❗The first pass is adequate for papers that aren’t in your research area, but may someday prove relevant.
-
 #### Some reasons why you may decide not to continue reading the paper include,
 
 * The paper is of no interest to you.

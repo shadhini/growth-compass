@@ -108,11 +108,7 @@ If you find a very good recent article, to find more relevant articles,&#x20;
 
 ## 🚫 Predatory Journals & Publishers
 
-Predatory open-access journals are bogus journals that exploit the open-access model for financial gain. They publish any submitted content, regardless of quality, without undergoing a rigorous peer-review process.&#x20;
-
-By charging authors publication fees, these journals capitalise on the academic need to publish while providing little or no genuine editorial or publishing services. They often deceive authors by falsely claiming peer review and inclusion in reputable databases.
-
-
+Predatory open-access journals exploit the open-access model for profit by charging publication fees without proper peer review or editorial services. They deceive authors with false claims of quality and inclusion in reputable databases.
 
 📍🗺️ **India** is the world's largest base for bogus fee-charging open-access publishing. The next largest base is the **United States**. In Africa, **Nigeria** has the largest number.
 
@@ -122,9 +118,9 @@ By charging authors publication fees, these journals capitalise on the academic 
 
 ### Open Access Journals
 
-Authors pay publishing fees so that the journals can make the full text of articles freely available to everyone. This is great idea if it's done with integrity.
+Authors pay fees to make articles freely accessible, which is valuable when done ethically.&#x20;
 
-Since, money is exchanging hands, this has opened the floodgates for the creation of bogus journals which exist solely to collect money from authors, not to publish high-quality research.
+However, this model has led to the rise of bogus journals that prioritize profit over publishing quality research.
 
 
 
@@ -136,9 +132,11 @@ Example of Open Access Publishing Model:
 
 [`https://beallslist.net`](https://beallslist.net/)
 
-[Beall's List](https://beallslist.net/), created by _Jeffrey Beall_, a librarian at the University of Colorado, Denver, identified potential **predatory open-access publishers** to help researchers avoid disreputable submissions. Despite its removal in 2017, archived versions and similar resources still aid in recognizing predatory journals.
+[Beall's List](https://beallslist.net/), created by librarian _**Jeffrey Beall,**_ identified **predatory publishers** to help researchers avoid them.&#x20;
 
-The journalist, _John Bohannon_ submitted an obviously flawed, bogus slightly different versions of cancer paper to 255 open-access journals; the paper was accepted to 157 journals and rejected by only 98. 82% of the publishers on Beall's list accepted the paper.
+Though removed in 2017, archived versions remain useful.&#x20;
+
+Journalist John Bohannon revealed the extent of predatory practices by submitting a flawed paper to 255 journals; 157 accepted it, including 82% of those on Beall's List.
 
 
 

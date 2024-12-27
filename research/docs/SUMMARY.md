@@ -4,7 +4,6 @@
 
 ## READING RESEARCH PAPERS
 
-* [Objectives of Reading a Paper](reading-research-papers/objectives-of-reading-a-paper.md)
 * [The Three-Pass Approach to Reading a Paper](reading-research-papers/the-three-pass-approach-to-reading-a-paper/README.md)
   * [First Pass](reading-research-papers/the-three-pass-approach-to-reading-a-paper/first-pass.md)
   * [Second Pass](reading-research-papers/the-three-pass-approach-to-reading-a-paper/second-pass.md)
