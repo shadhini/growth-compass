@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to My Research Journey !](README.md)
-  * [More materials to refer to...](welcome-to-my-research-journey/more-materials-to-refer-to....md)
 
 ## READING RESEARCH PAPERS
 
@@ -38,3 +37,7 @@
 ## Proofs
 
 * [ZKP: Zero-knowledge proofs](proofs/zkp-zero-knowledge-proofs.md)
+
+***
+
+* [More materials to refer to...](more-materials-to-refer-to....md)

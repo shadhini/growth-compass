@@ -26,75 +26,20 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 ## How to Conduct a Research?
 
-### How to Read a Research Paper
+1. Identify research papers relevant[^1] to a topic from credible sources&#x20;
+2. Synthesize the literature
+3. Formulate the research problem&#x20;
+   * should find a **research gap** based on the literature review &#x20;
+4. Prepare the project proposal
+5. Design the methodology and the evaluation of the research
+6. Write the thesis/research paper&#x20;
+   * good writing&#x20;
+   * use research tools
+   * adhere to correct referencing practices
 
-{% content-ref url="reading-research-papers/objectives-of-reading-a-paper.md" %}
-[objectives-of-reading-a-paper.md](reading-research-papers/objectives-of-reading-a-paper.md)
-{% endcontent-ref %}
-
-╰**---**➤ Based on paper by Keshav \[1] and paper by Fong \[2]
-
-{% content-ref url="reading-research-papers/the-three-pass-approach-to-reading-a-paper/" %}
-[the-three-pass-approach-to-reading-a-paper](reading-research-papers/the-three-pass-approach-to-reading-a-paper/)
-{% endcontent-ref %}
-
-╰**---**➤ Based on paper by Keshav \[1]
-
-{% content-ref url="reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/" %}
-[comprehension-evaluation-synthesis-approach-to-reading-a-paper](reading-research-papers/comprehension-evaluation-synthesis-approach-to-reading-a-paper/)
-{% endcontent-ref %}
-
-╰**---**➤ Based on paper by Fong \[2]
-
-### Finding Literature
-
-{% content-ref url="finding-literature/finding-academic-scholarly-literature.md" %}
-[finding-academic-scholarly-literature.md](finding-literature/finding-academic-scholarly-literature.md)
-{% endcontent-ref %}
-
-{% content-ref url="finding-literature/doing-a-literature-survey/" %}
-[doing-a-literature-survey](finding-literature/doing-a-literature-survey/)
-{% endcontent-ref %}
-
-╰**---**➤ Based on paper by Keshav \[1]
-
-
-
-### Paper Reviews
-
-{% content-ref url="writing-reviews/paper-review/" %}
-[paper-review](writing-reviews/paper-review/)
-{% endcontent-ref %}
-
-╰**---**➤ Based on paper by Fong \[2]
-
-
-
-### Writing a Research Paper
-
-{% content-ref url="writing-papers/writing-research-papers.md" %}
-[writing-research-papers.md](writing-papers/writing-research-papers.md)
-{% endcontent-ref %}
-
-
-
-### More Materials to refer to...
-
-{% content-ref url="welcome-to-my-research-journey/more-materials-to-refer-to....md" %}
-[more-materials-to-refer-to....md](welcome-to-my-research-journey/more-materials-to-refer-to....md)
-{% endcontent-ref %}
-
-╰**---**➤ Based on paper by Keshav \[1] and paper by Fong \[2]
-
-
-
-## Proof Mechanisms
-
-{% content-ref url="proofs/zkp-zero-knowledge-proofs.md" %}
-[zkp-zero-knowledge-proofs.md](proofs/zkp-zero-knowledge-proofs.md)
-{% endcontent-ref %}
-
-
+{% hint style="success" %}
+Follow an **ethical procedure** when conducting research.
+{% endhint %}
 
 
 
@@ -108,3 +53,6 @@ Let’s navigate the path of discovery together, one research step at a time!
 
 
 
+
+
+[^1]: broaden the definition of relevant when doing the literature review
